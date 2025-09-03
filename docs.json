@@ -72,17 +72,17 @@
       "anchors": [
         {
           "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
+          "href": "https://enhance.com/docs/getting-started/installation-guide.html",
           "icon": "book-open-cover"
         },
         {
           "anchor": "Community",
-          "href": "https://mintlify.com/community",
+          "href": "https://community.enhance.com/",
           "icon": "slack"
         },
         {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
+          "anchor": "Release",
+          "href": "https://enhance.com/support/release-notes",
           "icon": "newspaper"
         }
       ]
