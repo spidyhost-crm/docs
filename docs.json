@@ -96,13 +96,13 @@
     "links": [
       {
         "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "href": "https://enhance.com/contact"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "label": "Get Started",
+      "href": "https://my.enhance.com/order/product?pid=80d1639e-237d-4356-836c-64610589e572&read_more=1"
     }
   },
   "contextual": {
